@@ -30,7 +30,7 @@ namespace Sort_Csharp
                 Console.Write(item+ " ");
             }
 
-            List<string> lst3 = new List<string>() { "Bob", "Adam", "Clint", "Jake", "Tony", "Flint", "Drake", "Alex" };
+            List<string> lst3 = new List<string>() { "Bob", "Avraam", "Clint", "Jake", "Tony", "Flint", "Drake", "Alex" };
             Console.WriteLine();
             Console.Write("Исходный список: ");
             foreach (var item in lst3)
